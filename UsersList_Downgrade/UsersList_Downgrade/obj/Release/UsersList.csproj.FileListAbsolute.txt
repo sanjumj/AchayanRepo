@@ -1,0 +1,31 @@
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\UsersList.exe.config
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\UsersList.exe
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\UsersList.pdb
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\itextsharp.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\Microsoft.CSharp.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.Client.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.Common.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.VersionControl.Client.dll
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\ResolveAssemblyReference.cache
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\UsersList.frmTFSView.resources
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\UsersList.Properties.Resources.resources
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\GenerateResource.read.1.tlog
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\GenerateResource.write.1.tlog
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\UsersList.exe
+E:\DATA\Dharmbir\TFSApp\UsersList\UsersList\obj\Release\UsersList.pdb
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\UsersList.exe.config
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\UsersList.exe
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\UsersList.pdb
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\itextsharp.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.Client.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.Common.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\bin\Release\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.csprojResolveAssemblyReference.cache
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.frmTFSView.resources
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.Properties.Resources.resources
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.csproj.GenerateResource.Cache
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.exe
+C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList\UsersList\obj\Release\UsersList.pdb
