@@ -9,3 +9,6 @@ C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList_Downgrade\User
 C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.exe
 C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.pdb
 C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList_Downgrade.csprojResolveAssemblyReference.cache
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\UsersList.exe.config
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.exe
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.pdb

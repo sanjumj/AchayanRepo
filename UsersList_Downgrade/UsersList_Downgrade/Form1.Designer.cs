@@ -152,7 +152,7 @@
             // rtnGIRMS27
             // 
             this.rtnGIRMS27.AutoSize = true;
-            this.rtnGIRMS27.BackColor = System.Drawing.Color.LimeGreen;
+            this.rtnGIRMS27.BackColor = System.Drawing.Color.LightGreen;
             this.rtnGIRMS27.Checked = true;
             this.rtnGIRMS27.Cursor = System.Windows.Forms.Cursors.Hand;
             this.rtnGIRMS27.Location = new System.Drawing.Point(239, 7);
