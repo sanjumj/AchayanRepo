@@ -83,7 +83,6 @@ namespace UsersList
             
             teamProjects = _versionControl.GetAllTeamProjects(false);
               
-            int i = 0;
             lstProjects.Items.Clear();
             lstProjects.Items.Add("All TFS Projects");
             lstProjects.Items.Add("");

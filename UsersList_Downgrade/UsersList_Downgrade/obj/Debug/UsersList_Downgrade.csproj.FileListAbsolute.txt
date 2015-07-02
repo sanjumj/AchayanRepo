@@ -12,3 +12,11 @@ C:\01.SMJ's D Drive!\My Worx\01.TFSUsersList_CrowdGenie\UsersList_Downgrade\User
 C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\UsersList.exe.config
 C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.exe
 C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.pdb
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\UsersList.exe
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\UsersList.pdb
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\itextsharp.dll
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList_Downgrade.csprojResolveAssemblyReference.cache
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.frmTFSView.resources
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList.Properties.Resources.resources
+C:\08.SMJ_GitHub\AchayanRepo\UsersList_Downgrade\UsersList_Downgrade\obj\Debug\UsersList_Downgrade.csproj.GenerateResource.Cache
